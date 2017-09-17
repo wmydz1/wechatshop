@@ -1,4 +1,4 @@
-# wechat shop project
+# wechat shop
 
 we use weui jquery.
 
