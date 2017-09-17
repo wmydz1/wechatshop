@@ -411,7 +411,10 @@ header,.weui-navbar{
 	height: 8px;
 	background:#d4d3d3;
 }
-
+.my-ret-title{
+	font-size: 14px;
+	color: #6B6666;
+}
 .ima-pho{
 	width: 15%;
 	margin-top: 10px;
@@ -425,8 +428,19 @@ header,.weui-navbar{
 	float: left;
 	width: 50%;
 	padding-top: 5px;
-
-	padding: 5px 10px;
+	padding: 5px 10px;	
+}
+.product-int span{
+	    color: #6b6666;
+	    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+.my-ret-size{
+	padding-top: 5px;
+	color:#6b6666;
 }
 .seven-day{
 	width: 40%;
@@ -473,3 +487,57 @@ header,.weui-navbar{
 	padding: 5px 6px;
 	text-align: center;
 }
+.my-confirm{
+	font-size: 2;
+}
+/*优惠券coupon-no*/
+.my-cou-font{
+	font-size: 16px;
+    color: black;
+    font-weight: 800;
+}
+.my-cou-img{
+	text-align: center;
+	padding-top: 30%;
+}
+.cou-imgtxt{
+	color: #adabab;
+	padding-top: 10px;
+}
+.my-cou-flex{
+	width: 40%;
+	padding: 5px 0;
+	background: red;
+	border-radius: 8px;	
+	background: url(../images/coupon-2.png) no-repeat center;
+	background-size: cover;
+}
+.my-cou-flex:nth-child(odd)
+{
+	margin: 0 5% 15px 5%;
+	float: left;
+}
+.my-cou-flex:nth-child(even)
+{
+	float: right;
+	margin: 0 5% 15px 5%;	
+}
+.my-cou-flex ul{
+	font-size: 12px;
+    padding-left: 10px;
+}
+.my-cou-flex ul li{
+	color: white;
+}
+.my-cou-flex ul li:nth-child(1){
+	font-size: 19px;
+	font-weight: 400;
+}
+.my-cou-flex ul li span{
+	font-size: 30px;
+
+}
+.my-flex-box{
+	padding-top: 50px;
+}
+
