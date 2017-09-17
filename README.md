@@ -1,6 +1,6 @@
-# wechat shop
+# wechat shop 
 
-we use weui jquery.
+ use weui jquery.
 
 weui v1
 
