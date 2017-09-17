@@ -1,9 +1,6 @@
 # wechat shop
 
-
-we use weui jquery.
-
-weui v1
+Monday 交付
 
 ```
 http://jqweui.com/
